@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sangoki",
  "yomi": "さんごき",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "鎌倉後期以後",
+  "author": "藤原定家に仮託",
+  "desc": "定家の名に仮託した偽書で、「愚秘抄」などとともに「鵜鷺」系歌論書の一つ。歌の体を論じ、幽玄・有心を説く。奥書に定家・為家の名を連ねる。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -242,6 +247,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
